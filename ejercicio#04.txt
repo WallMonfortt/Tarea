@@ -1,0 +1,37 @@
+Tienes dos cuerdas y cada una toma una hora exactamente para quemarse, 
+¿Cómo las usarías para medir exactamente 15 minutos?
+ten en cuenta que las cuerdas tienen densidades desiguales, 
+esto quiere decir que la mitad de la cuerda a lo largo no necesariamente tarda media hora en quemarse.
+
+consideraciones:
+1. la cuerda a lo largo no necesariamente tarda media hora en quemarse
+2. las cuerdas tienen densidades desiguales
+3. las cuerdas son de diferentes materiales
+4. las cuerdas son de diferentes tamaños
+
+reglas:
+
+x = cuerda # 1
+y = cuerda # 2
+
+1.- quemar una cuerda cual sea  = 60 minutos en consumirse
+
+2.- encender ambos extremos de la cuerda = 30 minutos en consumirse
+
+Procedimiento para cronometrar 15 minutos:
+
+- Colocar ambas cuerdas en forma paralela 
+- Encender ambos extremos de una de ellas y un extremo de la otra cuerda 
+- La cuerda con ambos extremos encendidos tardará 30 minutos en consumirse
+- Una vez consumida la cuerda con ambos extremos encendidos, encendemos el otro extremo de la cuerda aun en proceso de quema e iniciamos el "cronometro"
+- El resto de la cuerda debería tardar 30 minutos en consumirse pero debido al haber encendido el otro extremo, el tiempo de quema deberia ser 15 minutos
+- De esta forma habremos medido 15 minutos exactamente
+
+:)
+
+
+
+
+
+
+
